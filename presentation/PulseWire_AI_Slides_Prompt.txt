@@ -1,0 +1,143 @@
+Create a professional, premium presentation deck about my full-stack news mobile application called "PulseWire".
+
+Audience:
+- university or internship presentation panel
+- technical evaluators
+- product and design reviewers
+
+Goal:
+- explain the full application clearly
+- show technical depth
+- show UI/UX quality
+- demonstrate clean architecture, scalability, and production readiness
+
+Presentation style:
+- modern
+- premium
+- clean
+- minimal but visually impressive
+- use a blue, cyan, white, and dark navy palette
+- use elegant typography
+- use smooth visual hierarchy
+- include app-like UI cards and mobile mockup framing
+- avoid childish or generic slide styling
+
+Tone:
+- confident
+- polished
+- technical but easy to understand
+
+Make a 15-slide presentation with speaker-friendly structure.
+
+Slides to include:
+1. Title slide
+   - PulseWire
+   - Premium Full-Stack News Mobile Application
+   - Flutter + Riverpod + Express + Firebase
+
+2. Problem statement
+   - limitations of ordinary news apps
+   - need for premium UI, personalization, and scalable architecture
+
+3. Solution overview
+   - what PulseWire does
+   - core value proposition
+
+4. Tech stack
+   - Flutter
+   - Riverpod
+   - Node.js
+   - Express.js
+   - Firebase Auth
+   - Firestore
+   - Firebase Storage
+   - Firebase Messaging
+
+5. System architecture
+   - frontend
+   - backend
+   - Firebase
+   - API flow
+
+6. Flutter architecture
+   - Clean Architecture
+   - presentation, domain, data layers
+   - modular feature-based folder structure
+
+7. Frontend app flow
+   - splash
+   - onboarding
+   - auth
+   - home
+   - search
+   - detail
+   - bookmarks
+   - profile
+
+8. UI/UX design
+   - Material 3
+   - custom theming
+   - glassmorphism touches
+   - dark and light mode
+   - premium design choices
+
+9. Home screen features
+   - breaking news carousel
+   - category filters
+   - trending news
+   - personalized feed
+   - pull to refresh
+   - infinite scrolling
+
+10. Search, detail, and bookmarks
+    - debounced search
+    - voice search
+    - article detail
+    - text to speech
+    - share
+    - bookmark and offline cache
+
+11. Profile and personalization
+    - preferences
+    - reading history
+    - theme toggle
+    - category interests
+    - personalization logic
+
+12. Backend architecture
+    - routes
+    - controllers
+    - services
+    - middleware
+    - validation
+    - JWT protection
+
+13. Database and Firebase
+    - Firestore collections
+    - Firebase Auth
+    - Storage
+    - interaction tracking
+    - analytics support
+
+14. Performance, security, and scalability
+    - caching
+    - pagination
+    - input validation
+    - modular structure
+    - future growth
+
+15. Conclusion and future work
+    - summary of achievements
+    - future enhancements
+    - closing statement
+
+For each slide:
+- add a strong slide title
+- include 3 to 5 concise bullets
+- keep wording presentation-ready
+- make it sound like a real final-year or internship project presentation
+- include subtle speaker-note style hints if possible
+
+Also suggest:
+- one app demo flow
+- one final Q&A slide if space allows
